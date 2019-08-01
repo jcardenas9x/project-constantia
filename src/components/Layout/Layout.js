@@ -12,6 +12,7 @@ import MediaQuery from "react-responsive";
 import { default as AntdLayout } from 'antd/lib/layout';
 import Row from 'antd/lib/row';
 import Col from 'antd/lib/col'
+import Background from '../../images/chapter1_bg.png';
 
 class Layout extends Component {
   setPostPageState = (state) => {
